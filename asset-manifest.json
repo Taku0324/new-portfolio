@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/new-portfolio/static/css/main.1089cc23.chunk.css",
-    "main.js": "/new-portfolio/static/js/main.3f72021b.chunk.js",
-    "main.js.map": "/new-portfolio/static/js/main.3f72021b.chunk.js.map",
-    "runtime-main.js": "/new-portfolio/static/js/runtime-main.ba3bdffc.js",
-    "runtime-main.js.map": "/new-portfolio/static/js/runtime-main.ba3bdffc.js.map",
+    "main.js": "/new-portfolio/static/js/main.18cc7b2e.chunk.js",
+    "main.js.map": "/new-portfolio/static/js/main.18cc7b2e.chunk.js.map",
+    "runtime-main.js": "/new-portfolio/static/js/runtime-main.5885218a.js",
+    "runtime-main.js.map": "/new-portfolio/static/js/runtime-main.5885218a.js.map",
     "static/css/2.a894a7ba.chunk.css": "/new-portfolio/static/css/2.a894a7ba.chunk.css",
-    "static/js/2.5cb2c8e9.chunk.js": "/new-portfolio/static/js/2.5cb2c8e9.chunk.js",
-    "static/js/2.5cb2c8e9.chunk.js.map": "/new-portfolio/static/js/2.5cb2c8e9.chunk.js.map",
-    "static/js/3.056392f9.chunk.js": "/new-portfolio/static/js/3.056392f9.chunk.js",
-    "static/js/3.056392f9.chunk.js.map": "/new-portfolio/static/js/3.056392f9.chunk.js.map",
+    "static/js/2.98643205.chunk.js": "/new-portfolio/static/js/2.98643205.chunk.js",
+    "static/js/2.98643205.chunk.js.map": "/new-portfolio/static/js/2.98643205.chunk.js.map",
+    "static/js/3.7d46c1bb.chunk.js": "/new-portfolio/static/js/3.7d46c1bb.chunk.js",
+    "static/js/3.7d46c1bb.chunk.js.map": "/new-portfolio/static/js/3.7d46c1bb.chunk.js.map",
     "index.html": "/new-portfolio/index.html",
     "static/css/2.a894a7ba.chunk.css.map": "/new-portfolio/static/css/2.a894a7ba.chunk.css.map",
     "static/css/main.1089cc23.chunk.css.map": "/new-portfolio/static/css/main.1089cc23.chunk.css.map",
-    "static/js/2.5cb2c8e9.chunk.js.LICENSE.txt": "/new-portfolio/static/js/2.5cb2c8e9.chunk.js.LICENSE.txt",
+    "static/js/2.98643205.chunk.js.LICENSE.txt": "/new-portfolio/static/js/2.98643205.chunk.js.LICENSE.txt",
     "static/media/anime-search.a88ed558.png": "/new-portfolio/static/media/anime-search.a88ed558.png",
     "static/media/App.css": "/new-portfolio/static/media/bg6.8c44a344.jpg",
     "static/media/driver's-test.ba858417.png": "/new-portfolio/static/media/driver's-test.ba858417.png",
@@ -22,10 +22,10 @@
     "static/media/paris-beauty.f9b1cea6.png": "/new-portfolio/static/media/paris-beauty.f9b1cea6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ba3bdffc.js",
+    "static/js/runtime-main.5885218a.js",
     "static/css/2.a894a7ba.chunk.css",
-    "static/js/2.5cb2c8e9.chunk.js",
+    "static/js/2.98643205.chunk.js",
     "static/css/main.1089cc23.chunk.css",
-    "static/js/main.3f72021b.chunk.js"
+    "static/js/main.18cc7b2e.chunk.js"
   ]
 }
