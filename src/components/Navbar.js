@@ -1,3 +1,4 @@
+import "bootstrap/js/src/collapse.js";
 import React from "react";
 import { Link } from "react-scroll";
 // REACT FONTAWESOME IMPORTS

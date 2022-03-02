@@ -70,7 +70,7 @@ nav ul li {
 /* Header */
 .header-wrapper {
     position: relative;
-    background:linear-gradient(to right, rgba(0,0,0,0.9), rgba(0,0,0,0.5)), url(bg6.jpg) no-repeat;
+    background:linear-gradient(to right, rgba(0,0,0,0.9), rgba(0,0,0,0.5)), url(./images/bg6.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -256,7 +256,7 @@ nav ul li {
 
 /*  */
 .portfolio-image-popupbox {
-    width: 45rem;
+    width: 40rem;
     padding: 0 0.5rem;
 }
 

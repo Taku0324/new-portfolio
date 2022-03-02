@@ -1,5 +1,5 @@
 import React from 'react'
-import author from "../me.JPG";
+import author from "../images/me.JPG";
 
 const AboutMe = () => {
     return (
@@ -14,13 +14,16 @@ const AboutMe = () => {
                     <h1 className="about-heading">about me</h1>
                     <div className="about-introduce">
                         <p>
-                            I'm a self-taught front-end-developer with a passion for making websites and web applications.
+                            I was a database engineer in Japan and now I'm a front-end-developer with a passion for making websites and web applications.
                         </p>
                         <p>
-                            I enjoy coding every day and looking for an opportunity to apply on a development team.
+                            I enjoy coding every day and study Networking Engineering.
                         </p>
                         <p>
-                            Technology has always been a major interest in my life. In my free time I enjoy playing video games and spending time with my family.
+                        I’m  looking for an opportunity to apply on a development team.
+                        </p>
+                        <p>
+                        Technology has always been a major interest in my life. In my free time I enjoy playing video games and spending time with my family.
                         </p>
                     </div>
                 </div>
