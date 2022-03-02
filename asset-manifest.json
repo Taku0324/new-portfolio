@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/new-portfolio/static/css/main.c73b069b.chunk.css",
-    "main.js": "/new-portfolio/static/js/main.831a47e0.chunk.js",
-    "main.js.map": "/new-portfolio/static/js/main.831a47e0.chunk.js.map",
+    "main.js": "/new-portfolio/static/js/main.fa6e0633.chunk.js",
+    "main.js.map": "/new-portfolio/static/js/main.fa6e0633.chunk.js.map",
     "runtime-main.js": "/new-portfolio/static/js/runtime-main.5885218a.js",
     "runtime-main.js.map": "/new-portfolio/static/js/runtime-main.5885218a.js.map",
     "static/css/2.a894a7ba.chunk.css": "/new-portfolio/static/css/2.a894a7ba.chunk.css",
@@ -14,18 +14,18 @@
     "static/css/2.a894a7ba.chunk.css.map": "/new-portfolio/static/css/2.a894a7ba.chunk.css.map",
     "static/css/main.c73b069b.chunk.css.map": "/new-portfolio/static/css/main.c73b069b.chunk.css.map",
     "static/js/2.98643205.chunk.js.LICENSE.txt": "/new-portfolio/static/js/2.98643205.chunk.js.LICENSE.txt",
+    "static/media/ScreenShotForAccess.2782852d.png": "/new-portfolio/static/media/ScreenShotForAccess.2782852d.png",
     "static/media/anime-search.a88ed558.png": "/new-portfolio/static/media/anime-search.a88ed558.png",
     "static/media/App.css": "/new-portfolio/static/media/bg6.8c44a344.jpg",
     "static/media/driver's-test.ba858417.png": "/new-portfolio/static/media/driver's-test.ba858417.png",
     "static/media/expense-tracker.c0710554.png": "/new-portfolio/static/media/expense-tracker.c0710554.png",
-    "static/media/me.d1f9e74f.JPG": "/new-portfolio/static/media/me.d1f9e74f.JPG",
-    "static/media/paris-beauty.f9b1cea6.png": "/new-portfolio/static/media/paris-beauty.f9b1cea6.png"
+    "static/media/me.d1f9e74f.JPG": "/new-portfolio/static/media/me.d1f9e74f.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.5885218a.js",
     "static/css/2.a894a7ba.chunk.css",
     "static/js/2.98643205.chunk.js",
     "static/css/main.c73b069b.chunk.css",
-    "static/js/main.831a47e0.chunk.js"
+    "static/js/main.fa6e0633.chunk.js"
   ]
 }
